@@ -44,5 +44,8 @@ switch (process.env.STAGE){
 
 // Build connection string
 config.db.connectionString = config.db.server + "/" + config.db.database
-
+aws_access_key_id = AKIAYVP4CIPPL6PGIXQY
+aws_secret_access_key = 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
+output = json
+region = us-east-2
 module.exports = config;
