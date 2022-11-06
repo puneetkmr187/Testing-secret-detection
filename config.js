@@ -3,6 +3,8 @@ var config_local = {
     "db": {
         "server": "postgres://postgres:postgres@127.0.0.1",
         "database": "vulnerablenode"
+        "aws_access_key_id" = "AKIAYVP4CIPPMWUNVGMA"
+        "aws_secret_access_key" = "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"
     }
 }
 
